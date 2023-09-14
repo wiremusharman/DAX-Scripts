@@ -1,6 +1,6 @@
 ﻿EVALUATE
 
--- Constants --
+-- Constants -- Do not change --
 VAR __BITTABLE = GENERATESERIES ( 1, 2 )
 VAR __BASE = 16 -- Hexadecimal
 
